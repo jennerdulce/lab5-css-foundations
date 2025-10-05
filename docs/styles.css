@@ -88,6 +88,11 @@
             border: none;
             padding: 0.5em 1em;
             font-size: 1em;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #3a7bc8;
             cursor: pointer;
         }
 
@@ -95,6 +100,11 @@
             color: var(--primary-color);
             text-decoration: none;
             font-size: 0.9em;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            font-style: italic;
         }
     }
 }
