@@ -1,6 +1,6 @@
 # Lab 5: CSS Foundations by Replication
-## Link: [jennerdulce-lab5-css-foundations](https://github.com/jennerdulce/lab5-css-foundations
-## Overview)
+## Link: [jennerdulce-lab5-css-foundations](https://github.com/jennerdulce/lab5-css-foundations)
+## Overview
 This lab builds upon your HTML knowledge from Lab 4 and introduces you to modern CSS layout techniques. You'll learn how CSS Grid and Flexbox solve real-world layout problems, and how small details like hover states and spacing create polished, professional interfaces.
 
 - Build semantic HTML structure using appropriate elements for a login page
